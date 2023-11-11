@@ -1,0 +1,33 @@
+{
+  "materias_registradas": [
+    {
+      "id": 1,
+      "nombre": "Calculo"
+    },
+    {
+      "id": 2,
+      "nombre": "Ecuaciones"
+    },
+    {
+      "id": 3,
+      "nombre": "Fundamentos de programacion"
+    }
+  ],
+  "materias_ayudantias": [
+    {
+      "id": 1,
+      "nombre": "Calculo",
+      "ayudante": "Axel Concha"
+    },
+    {
+      "id": 2,
+      "nombre": "Fundamentos de programacion",
+      "ayudante": "Galo Castillo"
+    },
+    {
+      "id": 3,
+      "nombre": "POO",
+      "ayudante": "Narcisa Mora"
+    }
+  ]
+}
