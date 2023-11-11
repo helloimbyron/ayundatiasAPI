@@ -1,33 +1,32 @@
-{
-  "materias_registradas_1": [
-    {
-      "id": 1,
-      "nombre": "Calculo"
-    },
-    {
-      "id": 2,
-      "nombre": "Ecuaciones"
-    },
-    {
-      "id": 3,
-      "nombre": "Fundamentos de programacion"
-    }
-  ],
-  "materias_ayudantias": [
-    {
-      "id": 1,
-      "nombre": "Calculo",
-      "ayudante": "Axel Concha"
-    },
-    {
-      "id": 2,
-      "nombre": "Fundamentos de programacion",
-      "ayudante": "Galo Castillo"
-    },
-    {
-      "id": 3,
-      "nombre": "POO",
-      "ayudante": "Narcisa Mora"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "ayudante": "Axel Concha",
+    "inicio": "2023-11-11 12:00:00.000",
+    "fin": "2023-11-11 14:00:00.000"
+  },
+  {
+    "id": 2,
+    "ayudante": "Galo Castillo",
+    "inicio": "2023-11-13 12:00:00.000",
+    "fin": "2023-11-13 14:00:00.000"
+  },
+  {
+    "id": 3,
+    "ayudante": "Narcisa Mora",
+    "inicio": "2023-11-15 12:00:00.000",
+    "fin": "2023-11-15 14:00:00.000"
+  },
+  {
+    "id": 4,
+    "ayudante": "Benito Juarez",
+    "inicio": "2023-11-15 15:00:00.000",
+    "fin": "2023-11-16 17:00:00.000"
+  },
+  {
+    "id": 5,
+    "ayudante": "Simón Bolívar",
+    "inicio": "2023-11-17 12:00:00.000",
+    "fin": "2023-11-17 14:00:00.000"
+  }
+]
