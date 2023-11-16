@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "ayudante": "Axel Concha",
+    "dia": 2,
+    "hora_inicio": "12:00:00.000",
+    "hora_fin": "14:00:00.000",
+    "presencialidad": true,
+    "ubicacion": "12C-B002"
+  },
+  {
+    "id": 2,
+    "ayudante": "Galo Castillo",
+    "dia": 2,
+    "hora_inicio": "12:00:00.000",
+    "hora_fin": "14:00:00.000",
+    "presencialidad": true,
+    "ubicacion": "9A-D012"
+  },
+  {
+    "id": 3,
+    "ayudante": "Martha Villa",
+    "dia": 2,
+    "hora_inicio": "08:00:00.000",
+    "hora_fin": "10:00:00.000",
+    "presencialidad": true,
+    "ubicacion": "12H-I007"
+  },
+  {
+    "id": 4,
+    "ayudante": "Pedro Lobo",
+    "dia": 1,
+    "hora_inicio": "08:00:00.000",
+    "hora_fin": "10:00:00.000",
+    "presencialidad": true,
+    "ubicacion": "12H-I007"
+  },
+  {
+    "id": 5,
+    "ayudante": "Narcisa Mora",
+    "dia": 3,
+    "hora_inicio": "12:00:00.000",
+    "hora_fin": "14:00:00.000",
+    "presencialidad": false,
+    "ubicacion": "zoom.com/clase-1"
+  },
+  {
+    "id": 6,
+    "ayudante": "Benito Juarez",
+    "dia": 3,
+    "hora_inicio": "08:00:00.000",
+    "hora_fin": "10:00:00.000",
+    "presencialidad": true,
+    "ubicacion": "10D-A001"
+  },
+  {
+    "id": 7,
+    "ayudante": "Benito Juarez",
+    "dia": 3,
+    "hora_inicio": "10:00:00.000",
+    "hora_fin": "12:00:00.000",
+    "presencialidad": true,
+    "ubicacion": "10D-A001"
+  },
+  {
+    "id": 8,
+    "ayudante": "Benito Juarez",
+    "dia": 3,
+    "hora_inicio": "12:00:00.000",
+    "hora_fin": "14:00:00.000",
+    "presencialidad": true,
+    "ubicacion": "10D-A001"
+  },
+  {
+    "id": 9,
+    "ayudante": "Benito Juarez",
+    "dia": 3,
+    "hora_inicio": "14:00:00.000",
+    "hora_fin": "16:00:00.000",
+    "presencialidad": true,
+    "ubicacion": "10D-A001"
+  },
+  {
+    "id": 10,
+    "ayudante": "Benito Juarez",
+    "dia": 3,
+    "hora_inicio": "16:00:00.000",
+    "hora_fin": "18:00:00.000",
+    "presencialidad": true,
+    "ubicacion": "10D-A001"
+  },
+  {
+    "id": 11,
+    "ayudante": "Benito Juarez",
+    "dia": 3,
+    "hora_inicio": "18:00:00.000",
+    "hora_fin": "20:00:00.000",
+    "presencialidad": true,
+    "ubicacion": "10D-A001"
+  },
+  {
+    "id": 12,
+    "ayudante": "Benito Juarez",
+    "dia": 3,
+    "hora_inicio": "20:00:00.000",
+    "hora_fin": "22:00:00.000",
+    "presencialidad": true,
+    "ubicacion": "10D-A001"
+  },
+  {
+    "id": 13,
+    "ayudante": "Simón Bolívar",
+    "dia": 5,
+    "hora_inicio": "12:00:00.000",
+    "hora_fin": "14:00:00.000",
+    "presencialidad": false,
+    "ubicacion": "zoom.com/clase-2"
+  },
+  {
+    "id": 14,
+    "ayudante": "Marcelo Vidal",
+    "dia": 6,
+    "hora_inicio": "12:00:00.000",
+    "hora_fin": "14:00:00.000",
+    "presencialidad": false,
+    "ubicacion": "zoom.com/clase-3"
+  },
+  {
+    "id": 15,
+    "ayudante": "Marcelo Vidal",
+    "dia": 1,
+    "hora_inicio": "12:00:00.000",
+    "hora_fin": "14:00:00.000",
+    "presencialidad": true,
+    "ubicacion": "1A-001"
+  }
+]

@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "id_horario":2,
+    "id_horario": 2,
     "ayudante": "Axel Concha",
     "inicio": "2023-11-11 12:00:00.000",
     "fin": "2023-11-18 14:00:00.000",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "id_horario":3,
+    "id_horario": 3,
     "ayudante": "Galo Castillo",
     "inicio": "2023-11-11 12:00:00.000",
     "fin": "2023-11-18 14:00:00.000",
@@ -17,56 +17,64 @@
   },
   {
     "id": 3,
-    "id_horario":4,"ayudante": "Martha Villa",
+    "id_horario": 4,
+    "ayudante": "Martha Villa",
     "inicio": "2023-11-11 08:00:00.000",
     "fin": "2023-11-18 10:00:00.000",
     "ubicacion": "12H-I007"
   },
   {
     "id": 4,
-    "id_horario":5,"ayudante": "Pedro Lobo",
+    "id_horario": 5,
+    "ayudante": "Pedro Lobo",
     "inicio": "2023-11-13 08:00:00.000",
     "fin": "2023-11-13 10:00:00.000",
     "ubicacion": "12H-I007"
   },
   {
     "id": 5,
-    "id_horario":1,"ayudante": "Narcisa Mora",
+    "id_horario": 1,
+    "ayudante": "Narcisa Mora",
     "inicio": "2023-11-15 12:00:00.000",
     "fin": "2023-11-15 14:00:00.000",
     "ubicacion": "Virtual"
   },
   {
     "id": 6,
-    "id_horario":2,"ayudante": "Benito Juarez",
+    "id_horario": 2,
+    "ayudante": "Benito Juarez",
     "inicio": "2023-11-15 08:00:00.000",
     "fin": "2023-11-15 10:00:00.000",
     "ubicacion": "10D-A001"
   },
   {
     "id": 7,
-    "id_horario":3,"ayudante": "Benito Juarez",
+    "id_horario": 3,
+    "ayudante": "Benito Juarez",
     "inicio": "2023-11-15 10:00:00.000",
     "fin": "2023-11-15 12:00:00.000",
     "ubicacion": "10D-A001"
   },
   {
     "id": 8,
-    "id_horario":5, "ayudante": "Benito Juarez",
+    "id_horario": 5,
+    "ayudante": "Benito Juarez",
     "inicio": "2023-11-15 12:00:00.000",
     "fin": "2023-11-15 14:00:00.000",
     "ubicacion": "10D-A001"
   },
   {
     "id": 9,
-    "id_horario":2, "ayudante": "Benito Juarez",
+    "id_horario": 2,
+    "ayudante": "Benito Juarez",
     "inicio": "2023-11-15 14:00:00.000",
     "fin": "2023-11-15 16:00:00.000",
     "ubicacion": "10D-A001"
   },
   {
     "id": 10,
-    "id_horario": 2, "ayudante": "Benito Juarez",
+    "id_horario": 2,
+    "ayudante": "Benito Juarez",
     "inicio": "2023-11-15 16:00:00.000",
     "fin": "2023-11-15 18:00:00.000",
     "ubicacion": "10D-A001"

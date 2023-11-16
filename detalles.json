@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "id_horario":2,
+    "id_horario": 2,
     "materia": "Fundamentos",
     "ayudante": "Axel Concha",
     "inicio": "2023-11-11 12:00:00.000",
@@ -14,7 +14,7 @@
   },
   {
     "id": 2,
-    "id_horario":3,
+    "id_horario": 3,
     "materia": "Fundamentos",
     "ayudante": "Galo Castillo",
     "inicio": "2023-11-11 12:00:00.000",
@@ -27,7 +27,7 @@
   },
   {
     "id": 3,
-    "id_horario":4,
+    "id_horario": 4,
     "materia": "Fisica",
     "ayudante": "Martha Villa",
     "inicio": "2023-11-11 08:00:00.000",
@@ -40,7 +40,7 @@
   },
   {
     "id": 4,
-    "id_horario":5,
+    "id_horario": 5,
     "materia": "Fisica",
     "ayudante": "Pedro Lobo",
     "inicio": "2023-11-13 08:00:00.000",
@@ -53,7 +53,7 @@
   },
   {
     "id": 5,
-    "id_horario":1,
+    "id_horario": 1,
     "materia": "Fisica",
     "ayudante": "Narcisa Mora",
     "inicio": "2023-11-15 12:00:00.000",
@@ -66,7 +66,7 @@
   },
   {
     "id": 6,
-    "id_horario":2,
+    "id_horario": 2,
     "materia": "Fisica",
     "ayudante": "Benito Juarez",
     "inicio": "2023-11-15 08:00:00.000",
@@ -79,7 +79,7 @@
   },
   {
     "id": 7,
-    "id_horario":3,
+    "id_horario": 3,
     "materia": "Fisica",
     "ayudante": "Benito Juarez",
     "inicio": "2023-11-15 10:00:00.000",
@@ -92,7 +92,7 @@
   },
   {
     "id": 8,
-    "id_horario":5,
+    "id_horario": 5,
     "materia": "Calculo",
     "ayudante": "Benito Juarez",
     "inicio": "2023-11-15 12:00:00.000",
@@ -105,7 +105,7 @@
   },
   {
     "id": 9,
-    "id_horario":2,
+    "id_horario": 2,
     "materia": "Calculo",
     "ayudante": "Benito Juarez",
     "inicio": "2023-11-15 14:00:00.000",
