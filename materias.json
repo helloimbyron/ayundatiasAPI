@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "codigo_materia": "CCPG1043",
+      "nombre": "Fundamentos de programacion"
+    },
+    {
+        "id": 2,
+        "codigo_materia": "MATG1001",
+        "nombre": "Calculo"
+    },
+    {
+        "id": 3,
+        "codigo_materia": "FISG1005",
+        "nombre": "Fisica"
+    }
+
+]
