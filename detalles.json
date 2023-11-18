@@ -60,7 +60,7 @@
     "fin": "14:00:00.000",
     "ubicacion": "Virtual",
     "isInHours": false,
-    "isAssistant": true,
+    "isAssistant": false,
     "isStartedEv": false,
     "alreadyEvaluated": false
   },
@@ -86,7 +86,7 @@
     "fin": "12:00:00.000",
     "ubicacion": "10D-A001",
     "isInHours": false,
-    "isAssistant": true,
+    "isAssistant": false,
     "isStartedEv": false,
     "alreadyEvaluated": false
   },
