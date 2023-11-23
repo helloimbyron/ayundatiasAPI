@@ -100,7 +100,7 @@
     "ubicacion": "10D-A001",
     "isInHours": false,
     "isAssistant": true,
-    "isStartedEv": false,
+    "isStartedEv": true,
     "alreadyEvaluated": false
   },
   {
