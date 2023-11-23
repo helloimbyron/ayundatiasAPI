@@ -71,7 +71,7 @@
     "ubicacion": "Virtual",
     "isInHours": false,
     "isAssistant": false,
-    "isStartedEv": false,
+    "isStartedEv": true,
     "alreadyEvaluated": false
 
   },
@@ -82,12 +82,11 @@
     "ayudante": "El Chavo del 8",
     "inicio": "12:00:00.000",
     "fin": "14:00:00.000",
-
     "ubicacion": "B8-888",
     "isInHours": false,
     "isAssistant": false,
-    "isStartedEv": false,
-    "alreadyEvaluated": false
+    "isStartedEv": true,
+    "alreadyEvaluated": true
   },
   {
     "id": 8,
@@ -96,11 +95,10 @@
     "ayudante": "Spider-Man",
     "inicio": "12:00:00.000",
     "fin": "14:00:00.000",
-
     "ubicacion":"F5-SM01",
     "isInHours": false,
     "isAssistant": true,
-    "isStartedEv": true,
+    "isStartedEv": false,
     "alreadyEvaluated": false
   },
   {
@@ -110,12 +108,10 @@
     "ayudante": "Benito Juarez",
     "inicio": "08:00:00.000",
     "fin": "10:00:00.000",
-
-
     "ubicacion": "10D-A001",
     "isInHours": false,
     "isAssistant": true,
-    "isStartedEv": false,
+    "isStartedEv": true,
     "alreadyEvaluated": false
   },
   
@@ -129,8 +125,8 @@
     "ubicacion": "10D-A001",
     "isInHours": false,
     "isAssistant": true,
-    "isStartedEv": false,
-    "alreadyEvaluated": false
+    "isStartedEv": true,
+    "alreadyEvaluated": true
   },
   {
     "id": 11,
@@ -178,7 +174,7 @@
     "fin": "20:00:00.000",
     "presencialidad": true,
     "ubicacion": "10D-A001",
-        "isInHours": false,
+    "isInHours": false,
     "isAssistant": true,
     "isStartedEv": false,
     "alreadyEvaluated": false
