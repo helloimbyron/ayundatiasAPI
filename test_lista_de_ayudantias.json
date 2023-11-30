@@ -8,7 +8,7 @@
     "endHour": "14:00:00",
     "address": "12C-B002",
     "isOnSite": "P",
-    "day": 2,
+    "day": 1,
     "periodId": 2
   },
   {
@@ -20,7 +20,7 @@
     "endHour": "14:00:00",
     "address": "9A-D012",
     "isOnSite": "P",
-    "day": 2,
+    "day": 1,
     "periodId": 2
   },
   {
@@ -32,7 +32,7 @@
     "endHour": "10:00:00",
     "address": "12H-I007",
     "isOnSite": "P",
-    "day": 2,
+    "day": 1,
     "periodId": 2
   },
   {
@@ -44,7 +44,7 @@
     "endHour": "10:00:00",
     "address": "12H-I007",
     "isOnSite": "P",
-    "day": 1,
+    "day": 0,
     "periodId": 2
   },
   {
@@ -56,7 +56,7 @@
     "endHour": "14:00:00",
     "address": "zoom.com/clase,-1",
     "isOnSite": "V",
-    "day": 3,
+    "day": 2,
     "periodId": 2
   },
   {
@@ -68,7 +68,7 @@
     "endHour": "14:00:00",
     "address": "zoom.com/clase,-2",
     "isOnSite": "V",
-    "day": 3,
+    "day": 2,
     "periodId": 2
   },
   {
@@ -80,7 +80,7 @@
     "endHour": "14:00:00",
     "address": "B8-888",
     "isOnSite": "V",
-    "day": 3,
+    "day": 2,
     "periodId": 2
   },
   {
@@ -92,7 +92,7 @@
     "endHour": "14:00:00",
     "address": "F5-SM01",
     "isOnSite": "V",
-    "day": 3,
+    "day": 2,
     "periodId": 2
   },
   {
@@ -104,7 +104,7 @@
     "endHour": "10:00:00",
     "address": "10D-A001",
     "isOnSite": "P",
-    "day": 3,
+    "day": 2,
     "periodId": 2
   },
   {
@@ -116,7 +116,7 @@
     "endHour": "12:00:00",
     "address": "10D-A001",
     "isOnSite": "P",
-    "day": 3,
+    "day": 2,
     "periodId": 2
   },
   {
@@ -128,7 +128,7 @@
     "endHour": "14:00:00",
     "address": "10D-A001",
     "isOnSite": "P",
-    "day": 3,
+    "day": 2,
     "periodId": 2
   },
   {
@@ -140,7 +140,7 @@
     "endHour": "16:00:00",
     "address": "10D-A001",
     "isOnSite": "P",
-    "day": 3,
+    "day": 2,
     "periodId": 2
   },
   {
@@ -152,7 +152,7 @@
     "endHour": "18:00:00",
     "address": "10D-A001",
     "isOnSite": "P",
-    "day": 3,
+    "day": 2,
     "periodId": 2
   },
   {
@@ -164,7 +164,7 @@
     "endHour": "20:00:00",
     "address": "10D-A001",
     "isOnSite": "P",
-    "day": 3,
+    "day": 2,
     "periodId": 2
   },
   {
@@ -176,7 +176,7 @@
     "endHour": "22:00:00",
     "address": "10D-A001",
     "isOnSite": "P",
-    "day": 3,
+    "day": 2,
     "periodId": 2
   },
   {
@@ -188,7 +188,7 @@
     "endHour": "14:00:00",
     "address": "zoom.com/clase,-2",
     "isOnSite": "V",
-    "day": 5,
+    "day": 2,
     "periodId": 2
   },
   {
@@ -200,7 +200,7 @@
     "endHour": "14:00:00",
     "address": "zoom.com/clase,-3",
     "isOnSite": "V",
-    "day": 6,
+    "day": 5,
     "periodId": 2
   },
   {
@@ -212,7 +212,7 @@
     "endHour": "14:00:00",
     "address": "1A-001",
     "isOnSite": "P",
-    "day": 1,
+    "day": 0,
     "periodId": 2
   }
 ]
