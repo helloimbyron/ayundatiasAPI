@@ -1,17 +1,17 @@
 [
   {
     "id": 1,
-    "codigo_materia": "CCPG1043",
-    "nombre": "Fundamentos de programacion"
+    "courseCode": "CCPG1043",
+    "name": "Fundamentos de programacion"
   },
   {
     "id": 2,
-    "codigo_materia": "MATG1001",
-    "nombre": "Calculo"
+    "courseCode": "MATG1001",
+    "name": "Calculo"
   },
   {
     "id": 3,
-    "codigo_materia": "FISG1005",
-    "nombre": "Fisica"
+    "courseCode": "FISG1005",
+    "name": "Fisica"
   }
 ]
