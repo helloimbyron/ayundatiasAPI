@@ -1,200 +1,318 @@
 [
   {
     "id": 1,
-    "id_horario": 2,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+    
     "materia": "Fundamentos",
     "ayudante": "Axel Concha",
     "inicio": "12:00:00.000",
     "fin": "14:00:00.000",
     "ubicacion": "12A-B000",
+    
     "isInHours": true,
-    "isAssistant": false,
+    "isAnAssistant": false,
     "isStartedEv": false,
-    "alreadyEvaluated": false
+    "hasAlreadyEvaluated": false,
+    "eventoId":1
   },
   {
     "id": 2,
-    "id_horario": 3,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+    
     "materia": "Fundamentos",
     "ayudante": "Galo Castillo",
     "inicio": "12:00:00.000",
     "fin": "14:00:00.000",
     "ubicacion": "9A-D012",
+    
     "isInHours": true,
-    "isAssistant": false,
+    "isAnAssistant": false,
     "isStartedEv": false,
-    "alreadyEvaluated": false
+    "hasAlreadyEvaluated": false,
+    "eventoId":1
   },
   {
     "id": 3,
-    "id_horario": 4,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+    
     "materia": "Fisica",
     "ayudante": "Martha Villa",
     "inicio": "08:00:00.000",
     "fin": "10:00:00.000",
     "ubicacion": "12H-I007",
+    
     "isInHours": true,
-    "isAssistant": true,
+    "isAnAssistant": true,
     "isStartedEv": false,
-    "alreadyEvaluated": false
+    "hasAlreadyEvaluated": false,
+    "eventoId":1
   },
   {
     "id": 4,
-    "id_horario": 5,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+    
     "materia": "Fisica",
     "ayudante": "Pedro Lobo",
     "inicio": "08:00:00.000",
     "fin": "10:00:00.000",
     "ubicacion": "12H-I007",
+    
     "isInHours": false,
-    "isAssistant": true,
+    "isAnAssistant": true,
     "isStartedEv": false,
-    "alreadyEvaluated": false
+    "hasAlreadyEvaluated": false,
+    "eventoId":1
   },
   {
     "id": 5,
-    "id_horario": 5,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+    
     "materia": "Fisica",
     "ayudante": "Narcisa Mora",
     "inicio": "12:00:00.000",
     "fin": "14:00:00.000",
     "ubicacion": "Virtual",
+    
     "isInHours": false,
-    "isAssistant": false,
+    "isAnAssistant": false,
     "isStartedEv": false,
-    "alreadyEvaluated": false
+    "hasAlreadyEvaluated": false,
+    "eventoId":1
   },
   {
     "id": 6,
-    "id_horario": 6,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+    
     "materia": "Fisica",
     "ayudante": "Jonathan Santana",
     "inicio": "12:00:00.000",
     "fin": "14:00:00.000",
     "ubicacion": "Virtual",
+    
     "isInHours": false,
-    "isAssistant": false,
+    "isAnAssistant": false,
     "isStartedEv": true,
-    "alreadyEvaluated": false
+    "hasAlreadyEvaluated": false,
+    "eventoId":1
 
   },
   {
     "id": 7,
-    "id_horario": 7,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+    
     "materia": "Fisica",
     "ayudante": "El Chavo del 8",
     "inicio": "12:00:00.000",
     "fin": "14:00:00.000",
     "ubicacion": "B8-888",
+    
     "isInHours": false,
-    "isAssistant": false,
+    "isAnAssistant": false,
     "isStartedEv": true,
-    "alreadyEvaluated": true
+    "hasAlreadyEvaluated": true
   },
   {
     "id": 8,
-    "id_horario": 8,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+    
     "materia": "Calculo",
     "ayudante": "Spider-Man",
     "inicio": "12:00:00.000",
     "fin": "14:00:00.000",
     "ubicacion":"F5-SM01",
+    
     "isInHours": false,
-    "isAssistant": true,
+    "isAnAssistant": true,
     "isStartedEv": false,
-    "alreadyEvaluated": false
+    "hasAlreadyEvaluated": false,
+    "eventoId":1
   },
   {
     "id": 9,
-    "id_horario": 9,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+    
     "materia": "Calculo",
     "ayudante": "Benito Juarez",
     "inicio": "08:00:00.000",
     "fin": "10:00:00.000",
     "ubicacion": "10D-A001",
+    
     "isInHours": false,
-    "isAssistant": true,
+    "isAnAssistant": true,
     "isStartedEv": true,
-    "alreadyEvaluated": false
+    "hasAlreadyEvaluated": false,
+    "eventoId":1
   },
   
   {
     "id": 10,
-    "id_horario": 10,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+    
     "materia": "Calculo",
     "ayudante": "Benito Juarez",
     "inicio": "10:00:00.000",
     "fin": "12:00:00.000",
     "ubicacion": "10D-A001",
+    
     "isInHours": false,
-    "isAssistant": true,
+    "isAnAssistant": true,
     "isStartedEv": true,
-    "alreadyEvaluated": true
+    "hasAlreadyEvaluated": true
   },
   {
     "id": 11,
-    "id_horario": 11,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+    
     "materia": "Calculo",
     "ayudante": "Benito Juarez",
     "inicio": "12:00:00.000",
     "fin": "14:00:00.000",
     "ubicacion": "10D-A001",
+    
     "isInHours": false,
-    "isAssistant": true,
+    "isAnAssistant": true,
     "isStartedEv": false,
-    "alreadyEvaluated": false
+    "hasAlreadyEvaluated": false,
+    "eventoId":1
   },
   {
     "id": 12,
-    "id_horario": 12,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+    
     "materia": "Calculo",
     "ayudante": "Benito Juarez",
     "inicio": "14:00:00.000",
     "fin": "16:00:00.000",
     "ubicacion": "10D-A001",
+    
     "isInHours": false,
-    "isAssistant": true,
+    "isAnAssistant": true,
     "isStartedEv": true,
-    "alreadyEvaluated": false
+    "hasAlreadyEvaluated": false,
+    "eventoId":1
   },
   {
     "id": 13,
-    "id_horario": 13,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+    
     "materia": "Calculo",
     "ayudante": "Benito Juarez",
     "inicio": "16:00:00.000",
     "fin": "18:00:00.000",
     "ubicacion": "10D-A001",
+    
     "isInHours": false,
-    "isAssistant": true,
+    "isAnAssistant": true,
     "isStartedEv": false,
-    "alreadyEvaluated": false
+    "hasAlreadyEvaluated": false,
+    "eventoId":1
     
   },
   {
     "id": 14,
-    "id_horario": 14,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+    
     "materia": "Calculo",
     "ayudante": "Benito Juarez",
     "inicio": "18:00:00.000",
     "fin": "20:00:00.000",
     "ubicacion": "10D-A001",
+    
     "isInHours": false,
-    "isAssistant": true,
+    "isAnAssistant": true,
     "isStartedEv": false,
-    "alreadyEvaluated": false
+    "hasAlreadyEvaluated": false,
+    "eventoId":1
   },
   {
     "id": 15,
-    "id_horario": 15,
+    "studentName":"Axel F",
+    "studentLastName":"Concha F",
+    "courseName":"",
+    "startHour":"",
+    "endHour":"",
+    "address":"",
+
     "materia": "FP",
     "ayudante": "Benito Juarez",
     "inicio": "20:00:00.000",
     "fin": "22:00:00.000",
     "ubicacion": "10D-A001",
+    
     "isInHours": false,
-    "isAssistant": true,
+    "isAnAssistant": true,
     "isStartedEv": false,
-    "alreadyEvaluated": false
+    "hasAlreadyEvaluated": false,
+    "eventoId":1
   }
 ]
