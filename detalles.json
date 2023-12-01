@@ -95,7 +95,8 @@
     "isInHours": false,
     "isAnAssistant": false,
     "isStartedEv": true,
-    "hasAlreadyEvaluated": true
+    "hasAlreadyEvaluated": true,
+    "eventoId":1
   },
   {
     "id": 8,
@@ -137,7 +138,8 @@
     "isInHours": false,
     "isAnAssistant": true,
     "isStartedEv": true,
-    "hasAlreadyEvaluated": true
+    "hasAlreadyEvaluated": true,
+    "eventoId":1
   },
   {
     "id": 11,
@@ -180,7 +182,6 @@
     "isStartedEv": false,
     "hasAlreadyEvaluated": false,
     "eventoId":1
-    
   },
   {
     "id": 14,
