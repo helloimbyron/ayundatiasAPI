@@ -11,7 +11,7 @@
     "isAnAssistant": false,
     "isStartedEv": false,
     "hasAlreadyEvaluated": false,
-    "eventoId":1
+    "eventId":1
   },
   {
     "id": 2,
@@ -25,7 +25,7 @@
     "isAnAssistant": false,
     "isStartedEv": false,
     "hasAlreadyEvaluated": false,
-    "eventoId":1
+    "eventId":1
   },
   {
     "id": 3,
@@ -39,7 +39,7 @@
     "isAnAssistant": true,
     "isStartedEv": false,
     "hasAlreadyEvaluated": false,
-    "eventoId":1
+    "eventId":1
   },
   {
     "id": 4,
@@ -53,7 +53,7 @@
     "isAnAssistant": true,
     "isStartedEv": false,
     "hasAlreadyEvaluated": false,
-    "eventoId":1
+    "eventId":1
   },
   {
     "id": 5,
@@ -67,7 +67,7 @@
     "isAnAssistant": false,
     "isStartedEv": false,
     "hasAlreadyEvaluated": false,
-    "eventoId":1
+    "eventId":1
   },
   {
     "id": 6,
@@ -81,8 +81,7 @@
     "isAnAssistant": false,
     "isStartedEv": true,
     "hasAlreadyEvaluated": false,
-    "eventoId":1
-
+    "eventId":1
   },
   {
     "id": 7,
@@ -96,7 +95,7 @@
     "isAnAssistant": false,
     "isStartedEv": true,
     "hasAlreadyEvaluated": true,
-    "eventoId":1
+    "eventId":1
   },
   {
     "id": 8,
@@ -110,7 +109,7 @@
     "isAnAssistant": true,
     "isStartedEv": false,
     "hasAlreadyEvaluated": false,
-    "eventoId":1
+    "eventId":1
   },
   {
     "id": 9,
@@ -124,7 +123,7 @@
     "isAnAssistant": true,
     "isStartedEv": true,
     "hasAlreadyEvaluated": false,
-    "eventoId":1
+    "eventId":1
   },
   
   {
@@ -139,7 +138,7 @@
     "isAnAssistant": true,
     "isStartedEv": true,
     "hasAlreadyEvaluated": true,
-    "eventoId":1
+    "eventId":1
   },
   {
     "id": 11,
@@ -153,7 +152,7 @@
     "isAnAssistant": true,
     "isStartedEv": false,
     "hasAlreadyEvaluated": false,
-    "eventoId":1
+    "eventId":1
   },
   {
     "id": 12,
@@ -167,7 +166,7 @@
     "isAnAssistant": true,
     "isStartedEv": true,
     "hasAlreadyEvaluated": false,
-    "eventoId":1
+    "eventId":1
   },
   {
     "id": 13,
@@ -181,7 +180,7 @@
     "isAnAssistant": true,
     "isStartedEv": false,
     "hasAlreadyEvaluated": false,
-    "eventoId":1
+    "eventId":1
   },
   {
     "id": 14,
@@ -195,7 +194,7 @@
     "isAnAssistant": true,
     "isStartedEv": false,
     "hasAlreadyEvaluated": false,
-    "eventoId":1
+    "eventId":1
   },
   {
     "id": 15,
@@ -209,6 +208,6 @@
     "isAnAssistant": true,
     "isStartedEv": false,
     "hasAlreadyEvaluated": false,
-    "eventoId":1
+    "eventId":1
   }
 ]
