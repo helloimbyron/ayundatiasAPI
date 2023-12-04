@@ -1,5 +1,13 @@
-[
-  {
-    "id_horario": 2
-  }
-]
+{
+  "operation":2,
+  "status":{
+    "isSuccessfully":true,
+    "messages":[]
+  },
+  "statusCode":200,
+  "count":1,
+  "data":{
+    "scheduledId":2
+  },
+  "listData":null
+}

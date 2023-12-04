@@ -1,5 +1,6 @@
 {
-  "id_evento": 1,
-  "id_estudiante": 3,
-  "rate": 2
+  "id": 1,
+  "eventId": 3,
+  "studentId": 2,
+  "score":1
 }
