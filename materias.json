@@ -1,17 +1,27 @@
-[
-  {
-    "id": 1,
-    "courseCode": "CCPG1043",
-    "name": "Fundamentos de programacion"
+{
+  "operation": 1,
+  "status": {
+    "isSuccessfully": true,
+    "messages": []
   },
-  {
-    "id": 2,
-    "courseCode": "MATG1001",
-    "name": "Calculo"
-  },
-  {
-    "id": 3,
-    "courseCode": "FISG1005",
-    "name": "Fisica"
-  }
-]
+  "statusCode": 200,
+  "count": 3,
+  "data": null,
+  "listData": [
+    {
+      "id": 1,
+      "courseCode": "CCPG1043",
+      "name": "FUNDAMENTOS DE PROGRAMACIÓN"
+    },
+    {
+      "id": 2,
+      "courseCode": "MATG1001",
+      "name": "CÁLCULO"
+    },
+    {
+      "id": 3,
+      "courseCode": "FISG1005",
+      "name": "FÍSICA"
+    }
+  ]
+}

@@ -1,72 +1,228 @@
-[
-  {
-    "id": 1,
-    "ayudante": "Axel Concha",
-    "inicio": "2023-11-11 12:00:00.000",
-    "fin": "2023-11-18 14:00:00.000",
-    "ubicacion": "12C-B002"
+{
+  "operation": 1,
+  "status": {
+    "isSuccessfully": true,
+    "messages": []
   },
-  {
-    "id": 2,
-    "ayudante": "Galo Castillo",
-    "inicio": "2023-11-11 12:00:00.000",
-    "fin": "2023-11-18 14:00:00.000",
-    "ubicacion": "9A-D012"
-  },
-  {
-    "id": 3,
-    "ayudante": "Martha Villa",
-    "inicio": "2023-11-11 08:00:00.000",
-    "fin": "2023-11-18 10:00:00.000",
-    "ubicacion": "12H-I007"
-  },
-  {
-    "id": 4,
-    "ayudante": "Pedro Lobo",
-    "inicio": "2023-11-13 08:00:00.000",
-    "fin": "2023-11-13 10:00:00.000",
-    "ubicacion": "12H-I007"
-  },
-  {
-    "id": 5,
-    "ayudante": "Narcisa Mora",
-    "inicio": "2023-11-15 12:00:00.000",
-    "fin": "2023-11-15 14:00:00.000",
-    "ubicacion": "Virtual"
-  },
-  {
-    "id": 6,
-    "ayudante": "Benito Juarez",
-    "inicio": "2023-11-15 08:00:00.000",
-    "fin": "2023-11-15 10:00:00.000",
-    "ubicacion": "10D-A001"
-  },
-  {
-    "id": 7,
-    "ayudante": "Benito Juarez",
-    "inicio": "2023-11-15 10:00:00.000",
-    "fin": "2023-11-15 12:00:00.000",
-    "ubicacion": "10D-A001"
-  },
-  {
-    "id": 8,
-    "ayudante": "Benito Juarez",
-    "inicio": "2023-11-15 12:00:00.000",
-    "fin": "2023-11-15 14:00:00.000",
-    "ubicacion": "10D-A001"
-  },
-  {
-    "id": 9,
-    "ayudante": "Benito Juarez",
-    "inicio": "2023-11-15 14:00:00.000",
-    "fin": "2023-11-15 16:00:00.000",
-    "ubicacion": "10D-A001"
-  },
-  {
-    "id": 10,
-    "ayudante": "Benito Juarez",
-    "inicio": "2023-11-15 16:00:00.000",
-    "fin": "2023-11-15 18:00:00.000",
-    "ubicacion": "10D-A001"
-  }
-]
+  "statusCode": 200,
+  "count": 18,
+  "data": null,
+  "listData": [
+    {
+      "id": 1,
+      "studentName": "AXEL AXEL",
+      "studentLastName": "CONCHA CONCHA",
+      "courseId": 1,
+      "startHour": "12:00:00",
+      "endHour": "14:00:00",
+      "address": "12C-B002",
+      "isOnSite": "P",
+      "day": 1,
+      "periodId": 2
+    },
+    {
+      "id": 2,
+      "studentName": "GALO GALO",
+      "studentLastName": "CASTILLO CASTILLO",
+      "courseId": 1,
+      "startHour": "12:00:00",
+      "endHour": "14:00:00",
+      "address": "9A-D012",
+      "isOnSite": "P",
+      "day": 1,
+      "periodId": 2
+    },
+    {
+      "id": 3,
+      "studentName": "MARTHA MARTHA",
+      "studentLastName": "VILLA VILLA",
+      "courseId": 1,
+      "startHour": "08:00:00",
+      "endHour": "10:00:00",
+      "address": "12H-I007",
+      "isOnSite": "P",
+      "day": 1,
+      "periodId": 2
+    },
+    {
+      "id": 4,
+      "studentName": "PEDRO PEDRO",
+      "studentLastName": "LOBO LOBO",
+      "courseId": 1,
+      "startHour": "08:00:00",
+      "endHour": "10:00:00",
+      "address": "12H-I007",
+      "isOnSite": "P",
+      "day": 0,
+      "periodId": 2
+    },
+    {
+      "id": 5,
+      "studentName": "NARCISA NARCISA",
+      "studentLastName": "MORA MORA",
+      "courseId": 1,
+      "startHour": "12:00:00",
+      "endHour": "14:00:00",
+      "address": "zoom.com/clase,-1",
+      "isOnSite": "V",
+      "day": 2,
+      "periodId": 2
+    },
+    {
+      "id": 6,
+      "studentName": "JONATHAN JONATHAN",
+      "studentLastName": "SANTANA SANTANA",
+      "courseId": 1,
+      "startHour": "12:00:00",
+      "endHour": "14:00:00",
+      "address": "zoom.com/clase,-2",
+      "isOnSite": "V",
+      "day": 2,
+      "periodId": 2
+    },
+    {
+      "id": 7,
+      "studentName": "EL CHAVO",
+      "studentLastName": "DEL 8",
+      "courseId": 1,
+      "startHour": "12:00:00",
+      "endHour": "14:00:00",
+      "address": "B8-888",
+      "isOnSite": "V",
+      "day": 2,
+      "periodId": 2
+    },
+    {
+      "id": 8,
+      "studentName": "SPIDER SPIDER",
+      "studentLastName": "MAN MAN",
+      "courseId": 1,
+      "startHour": "12:00:00",
+      "endHour": "14:00:00",
+      "address": "F5-SM01",
+      "isOnSite": "V",
+      "day": 2,
+      "periodId": 2
+    },
+    {
+      "id": 9,
+      "studentName": "BENITO BENITO",
+      "studentLastName": "JUAREZ JUAREZ",
+      "courseId": 1,
+      "startHour": "08:00:00",
+      "endHour": "10:00:00",
+      "address": "10D-A001",
+      "isOnSite": "P",
+      "day": 2,
+      "periodId": 2
+    },
+    {
+      "id": 10,
+      "studentName": "BENITO BENITO",
+      "studentLastName": "JUAREZ JUAREZ",
+      "courseId": 1,
+      "startHour": "10:00:00",
+      "endHour": "12:00:00",
+      "address": "10D-A001",
+      "isOnSite": "P",
+      "day": 2,
+      "periodId": 2
+    },
+    {
+      "id": 11,
+      "studentName": "BENITO BENITO",
+      "studentLastName": "JUAREZ JUAREZ",
+      "courseId": 1,
+      "startHour": "12:00:00",
+      "endHour": "14:00:00",
+      "address": "10D-A001",
+      "isOnSite": "P",
+      "day": 2,
+      "periodId": 2
+    },
+    {
+      "id": 12,
+      "studentName": "BENITO BENITO",
+      "studentLastName": "JUAREZ JUAREZ",
+      "courseId": 1,
+      "startHour": "14:00:00",
+      "endHour": "16:00:00",
+      "address": "10D-A001",
+      "isOnSite": "P",
+      "day": 2,
+      "periodId": 2
+    },
+    {
+      "id": 13,
+      "studentName": "BENITO BENITO",
+      "studentLastName": "JUAREZ JUAREZ",
+      "courseId": 1,
+      "startHour": "16:00:00",
+      "endHour": "18:00:00",
+      "address": "10D-A001",
+      "isOnSite": "P",
+      "day": 2,
+      "periodId": 2
+    },
+    {
+      "id": 14,
+      "studentName": "BENITO BENITO",
+      "studentLastName": "JUAREZ JUAREZ",
+      "courseId": 1,
+      "startHour": "18:00:00",
+      "endHour": "20:00:00",
+      "address": "10D-A001",
+      "isOnSite": "P",
+      "day": 2,
+      "periodId": 2
+    },
+    {
+      "id": 15,
+      "studentName": "BENITO BENITO",
+      "studentLastName": "JUAREZ JUAREZ",
+      "courseId": 1,
+      "startHour": "20:00:00",
+      "endHour": "22:00:00",
+      "address": "10D-A001",
+      "isOnSite": "P",
+      "day": 2,
+      "periodId": 2
+    },
+    {
+      "id": 16,
+      "studentName": "SIMÓN SIMÓN",
+      "studentLastName": "BOLÍVAR BOLÍVAR",
+      "courseId": 1,
+      "startHour": "12:00:00",
+      "endHour": "14:00:00",
+      "address": "zoom.com/clase,-2",
+      "isOnSite": "V",
+      "day": 2,
+      "periodId": 2
+    },
+    {
+      "id": 17,
+      "studentName": "MARCELO MARCELO",
+      "studentLastName": "VIDAL VIDAL",
+      "courseId": 1,
+      "startHour": "12:00:00",
+      "endHour": "14:00:00",
+      "address": "zoom.com/clase,-3",
+      "isOnSite": "V",
+      "day": 5,
+      "periodId": 2
+    },
+    {
+      "id": 18,
+      "studentName": "MARCELO MARCELO",
+      "studentLastName": "VIDAL VIDAL",
+      "courseId": 1,
+      "startHour": "12:00:00",
+      "endHour": "14:00:00",
+      "address": "1A-001",
+      "isOnSite": "P",
+      "day": 0,
+      "periodId": 2
+    }
+  ]
+}
